@@ -1,16 +1,20 @@
 # AI自动答题助手
 <picture>
-    <img alt="" src="https://github.com/yikfun/ai-answer-assistant/blob/master/icons/hero-image.jpg?raw=true">
+    <img alt="" src="https://github.com/rehuan/AI-ANSWER-ASSISTANT/blob/master/icons/hero-image.jpg?raw=true">
 </picture>
 
 
 一个智能的浏览器答题插件，能够自动识别网页中的题目（单选、多选、填空题），通过AI大模型获取答案并自动填写。
+
 
 ## 功能特点
 - **🔍 智能题目识别**: 自动识别网页中的单选题、多选题和填空题
 - **🤖 AI自动答题**: 使用AI大模型获取问题答案，并自动勾选/填写正确答案
 - **⚙️ 模型灵活配置**: 支持自定义AI模型，使用第三方模型来分析回答题目
 - **⚡ 题型模板系统**: 预设常见站点DOM结构，秒级完成题目识别，无需每次AI分析
+
+## 功能演示
+https://github.com/user-attachments/assets/9431dbe5-1127-41a0-bede-b15d8898fdcb
 
 
 ## 安装方法
